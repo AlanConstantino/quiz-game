@@ -141,6 +141,7 @@ async function setCategoryButtons() {
     for (const category of categories) {
         const button = document.createElement('button');
         const text = document.createTextNode(category.name);
+        button.setAttribute('id', category.id);
         button.classList.add('btn');
         button.appendChild(text);
         buttonList.appendChild(button);
