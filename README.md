@@ -1,7 +1,7 @@
 # [quiz-game](https://quiz-game-js.herokuapp.com/)
 A quiz game made with Javascript and the Open Trivia Database API.
 
-[Link to quiz game](https://quiz-game-js.herokuapp.com/)
+[Link to quiz game](https://quiz.alanconstantino.com/)
 
 # API Used
 - [Open Trivia Database](https://opentdb.com/api_config.php)
