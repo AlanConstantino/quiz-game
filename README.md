@@ -1,4 +1,4 @@
-# [quiz-game](https://quiz-game-js.herokuapp.com/)
+# [quiz-game](https://quiz.alanconstantino.com/)
 A quiz game made with Javascript and the Open Trivia Database API.
 
 [Link to quiz game](https://quiz.alanconstantino.com/)
