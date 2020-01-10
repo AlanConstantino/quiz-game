@@ -10,6 +10,7 @@ A quiz game made with Javascript and the Open Trivia Database API.
 # Images
 
 ### Static Images
+<img src="images/quiz-game-web-mobile.png" alt="quiz-game-web-mobile.png">
 <img src="images/categories.png" alt="categories.png">
 <img src="images/question.png" alt="question.png">
 <img src="images/correct.png" alt="correct.png">
