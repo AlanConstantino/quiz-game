@@ -1,10 +1,11 @@
-# [quiz-game](https://quiz.alanconstantino.com/)
-A quiz game made with Javascript and the Open Trivia Database API.
+# <a href="https://quiz.alanconstantino.com/" target="_blank">Quiz Game</a>
 
-[Link to quiz game](https://quiz.alanconstantino.com/)
+A responsive quiz game made with Javascript and the Open Trivia Database API.
+
+<a href="https://quiz.alanconstantino.com/" target="_blank">Link to quiz game</a>
 
 # API Used
-- [Open Trivia Database](https://opentdb.com/api_config.php)
+- <a href="https://opentdb.com/api_config.php" target="_blank">Open Trivia Database</a>
   - Used for trivia questions and answers on various categories.
 
 # Images
