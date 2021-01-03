@@ -1,8 +1,8 @@
-# <a href="https://quiz.alanconstantino.com/" target="_blank">Quiz Game</a>
+# <a href="https://quiz.alanjc.com/" target="_blank">Quiz Game</a>
 
 A responsive quiz game made with Javascript and the Open Trivia Database API.
 
-<a href="https://quiz.alanconstantino.com/" target="_blank">Link to quiz game</a>
+<a href="https://quiz.alanjc.com/" target="_blank">Link to quiz game</a>
 
 # API Used
 - <a href="https://opentdb.com/api_config.php" target="_blank">Open Trivia Database</a>
